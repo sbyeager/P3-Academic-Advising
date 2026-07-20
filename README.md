@@ -1,2 +1,2 @@
-# P3-Academic-Advising
-Interactive Checklist for Dedman Law students 
+# Student-Affairs-Academic-Advising
+Interactive Academic Advising Platofrm for Dedman Law students 
